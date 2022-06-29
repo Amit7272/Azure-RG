@@ -1,2 +1,2 @@
 # Azure-RG
-A resource group is a container that holds related resources for an Azure solution. The resource group can include all the resources for the solution, or only those resources that you want to manage as a group.
+A resource group is a logical container into which Azure resources like web apps, databases, and storage accounts are deployed and managed. Resources: Resources are instances of services that you create, like virtual machines, storage, or SQL databases
